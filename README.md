@@ -1,1 +1,2 @@
-# probable-potato
+# README for IPC homework 2
+
